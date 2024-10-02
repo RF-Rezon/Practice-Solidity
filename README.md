@@ -1,6 +1,6 @@
-                                                                                                                       ### About HotelRoom: 
+### About HotelRoom: 
 
- Here’s a simplified explanation of the Solidity smart contract:
+Here’s a simplified explanation of the Solidity smart contract:
 
 ### Overview:
 This contract represents a hotel room that people can book by paying a certain amount of Ether (cryptocurrency). It checks if the room is available and if the user sends enough Ether. If both conditions are met, the user can book the room, and the Ether is sent to the owner of the hotel room.
