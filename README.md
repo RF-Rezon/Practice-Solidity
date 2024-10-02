@@ -1,4 +1,4 @@
- - About HotelRoom: 
+                                                                                                                       ### About HotelRoom: 
 
  Here’s a simplified explanation of the Solidity smart contract:
 
